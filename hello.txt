@@ -1,2 +1,10 @@
-This is a test file. 
-Change this file and commit to the git repository.
+//This is a test file. 
+//Change this file and commit to the git repository.
+
+#include <stdio.h>
+
+int main(){
+	printf("Hello git!\n");
+
+	return 0;
+}
